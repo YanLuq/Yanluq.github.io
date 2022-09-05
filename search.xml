@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title>我的兄弟</title>
+      <link href="/posts/1.html"/>
+      <url>/posts/1.html</url>
+      
+        <content type="html"><![CDATA[<p>date: 2022-09-04</p><h1 id="Brother介绍"><a href="#Brother介绍" class="headerlink" title="Brother介绍"></a>Brother介绍</h1><p>[TOC]</p><h4 id="1：黄瑞"><a href="#1：黄瑞" class="headerlink" title="1：黄瑞"></a>1：黄瑞</h4><p>他人挺好的但就是傻乎乎的，有些时候会做出比较傻币一点的是事情。他曾经暗恋别人四五年，在向别人表白的时候还没说就被别人拒绝了，因此他就努力学习，但后面却隐隐对ta没有了感觉。</p><h4 id="2：李镇涛"><a href="#2：李镇涛" class="headerlink" title="2：李镇涛"></a>2：李镇涛</h4><p>我的发小，从小一起长大，他比黄瑞瘦点。他也喜欢一个女孩，但就是不敢去表白，当他去表白的时候却很胆小，还让我去陪他。他的数学成绩很好，但就是不喜欢英语，他觉得英语没有用。他还是个深情男</p><h4 id="3-杨帅昕"><a href="#3-杨帅昕" class="headerlink" title="3:杨帅昕"></a>3:杨帅昕</h4><h4 id="4：陈卓"><a href="#4：陈卓" class="headerlink" title="4：陈卓"></a>4：陈卓</h4><h4 id="5：张博"><a href="#5：张博" class="headerlink" title="5：张博"></a>5：张博</h4><h4 id="6：黄浩"><a href="#6：黄浩" class="headerlink" title="6：黄浩"></a>6：黄浩</h4><h1 id="兄弟"><a href="#兄弟" class="headerlink" title="兄弟****"></a>兄弟****</h1>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Hello World</title>
+      <link href="/posts/16107.html"/>
+      <url>/posts/16107.html</url>
+      
+        <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+  
+  
+</search>
